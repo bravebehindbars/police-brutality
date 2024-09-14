@@ -1,0 +1,26 @@
+
+
+.image {
+	background-image: url("ayanfe-olarinde-wz48H7EZNbg-unsplash.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 725px;
+	width: 1475px;
+
+}
+
+.col-sm-6 {
+	opacity: 65%;
+	width: 100px;
+}
+
+.form-control {
+	opacity: 25%;
+	
+	
+}
+
+.container-fluid {
+	color: rgb(245, 54, 54);	
+
+}
